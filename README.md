@@ -1,2 +1,4 @@
-# olamundo
- primeiro repositório
+# Olá,Mundo
+ primeiro repositório   
+
+ Inicio do estudo
